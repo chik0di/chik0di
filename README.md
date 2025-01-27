@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chik0di
+- 👋 Hi, I’m Chik0di 
 - 👀 I’m interested in Data Warehouse Design & Data Curation.
 - 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on Database Development projects. 
