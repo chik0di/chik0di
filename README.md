@@ -4,7 +4,7 @@
 - 🧱 I’m looking to collaborate on Database Design projects. 
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/chikodi-obu-278b5b264/)
 
-![TBA](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqaDI2OGs0d21xc2R3c3RsdXVubnJzbjhxanRtM3ZvZWs1cXp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D05oEJk20L09a/giphy.gif)
+![Edward Wong Hau Pepelu Tivrusky IV in the Sunset](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqaDI2OGs0d21xc2R3c3RsdXVubnJzbjhxanRtM3ZvZWs1cXp0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D05oEJk20L09a/giphy.gif)
   
 <!---
 chik0di/chik0di is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
